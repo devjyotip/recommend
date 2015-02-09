@@ -140,24 +140,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 			<version>3.1</version>
 		</dependency>		 
 
-  		<dependency>
-			<groupId>storm</groupId>
-			<artifactId>storm</artifactId>
-			<version>0.8.2</version>
-		</dependency>   
-        
-		<dependency>
-			<groupId>org.clojure</groupId>
-			<artifactId>clojure</artifactId>
-			<version>1.2.0</version>
-		</dependency>
-		
-		<dependency>
-			<groupId>org.clojure</groupId>
-			<artifactId>clojure-contrib</artifactId>
-			<version>1.2.0</version>
-		</dependency>    
-
 		<dependency>
 	    	<groupId>com.google.guava</groupId>
 	    	<artifactId>guava</artifactId>
